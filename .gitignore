@@ -39,6 +39,6 @@ Thumbs.db
 
 # R #
 ############
-.Rproj
-.Rhistory
-.RData
+*.Rproj
+*.Rhistory
+*.RData
