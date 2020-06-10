@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557592411279.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "910595012",
+    "id" : "F60D8893",
+    "lastKnownWriteTime" : 1557592282,
+    "last_content_update" : 1557592282,
+    "path" : "C:/Users/zhaow/Downloads/Study/USCS R_sessions/scripts/L10 Count Reg.R",
+    "project_path" : "scripts/L10 Count Reg.R",
+    "properties" : {
+        "cursorPosition" : "17,29",
+        "scrollLine" : "4"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
