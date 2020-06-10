@@ -1,5 +1,0 @@
-"0","```r
-data(\"PlantGrowth\")
-?PlantGrowth
-head(PlantGrowth)
-```"
