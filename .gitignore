@@ -1,9 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/r
 # Edit at https://www.toptal.com/developers/gitignore?templates=r
 
-*.css linguist-detectable=false
-*.html linguist-detectable=false
-*.R linguist-detectable=true
 
 ### R ###
 # History files
